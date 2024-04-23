@@ -1,0 +1,4 @@
+1) En el puerto de postgres (5432) se debe crear una base de datos llamada "invitaciones",
+2) Una vez que se corra el programa, alli se vera una tabla "person" con usuarios de muestra creados en la carpeta bootstrap
+3) en el PersonasController se encuentran los distintos endpoints para realizar las operaciones.
+4) se adjunta coleccion de postman para probarlos
